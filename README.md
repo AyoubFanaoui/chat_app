@@ -16,6 +16,5 @@ Ce projet est une application simple de messagerie entre un utilisateur et un mo
 ## 📦 Installation
 
 ### 1. Lancer Ollama
-
 ollama serve
 ollama run tinyllama  # ou phi3, tinyllama...
