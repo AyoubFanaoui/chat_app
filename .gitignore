@@ -1,0 +1,15 @@
+# Flutter
+**/build/
+**/.dart_tool/
+**/.idea/
+**/.vscode/
+**/.packages
+pubspec.lock
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# System
+.DS_Store
